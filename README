@@ -1,5 +1,4 @@
 Run Command Similar to this.
 
-'/home/nick/dev/Android/Sdk/ndk/23.1.7779620/ndk-build' -C $(pwd)
-'/home/nick/dev/Android/Sdk/ndk/23.1.7779620/ndk-build' clean
+Build using ndk-build
 
